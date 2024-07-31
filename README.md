@@ -1,4 +1,28 @@
 ![cool Animation](https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI0MDQ3NjMsIm5iZiI6MTcyMjQwNDQ2MywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzMxVDA1NDEwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwNzY0N2Y5MGRjMjUyYzNjNjhhMjdhMjE2MWRmMWRjODRkMTRiYzNiY2U5M2I2MzVhN2E4ZDRmMDg2MzUzM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KyQpu_BPTupCbK8Evv2gFaCig_0cJ4inF1-fY0Tyu5M)
+# Hi there, I'm Gaurav Kadaskar! 👋
+
+Welcome to my GitHub profile! I'm a final-year B.Tech student specializing in Artificial Intelligence and Data Science. I have a strong passion for leveraging technology to solve real-world problems, and I'm particularly skilled in building projects using Django and Python.
+
+## 🚀 About Me
+- 🔭 Currently working on: Various AI and data science projects, with a focus on [mention any specific area if applicable].
+- 🌱 Learning: Exploring advanced machine learning techniques and deepening my understanding of AI technologies.
+- 👯 Looking to collaborate on: Innovative projects involving Django, Python, or any AI/data science-related initiatives.
+- 🤔 Pronouns: [Your Pronouns]
+- 📫 How to reach me: [Your Contact Information or Preferred Method]
+
+## 🛠️ Technologies & Tools
+- **Languages:** Python
+- **Frameworks & Libraries:** Django, [any other relevant tools or libraries you use]
+- **Tools:** Git, [any other tools you frequently use]
+
+## 🌟 Projects
+- [Project 1](link-to-project): Brief description of the project.
+- [Project 2](link-to-project): Brief description of the project.
+
+## 🎓 Experience
+- **GDSC Core Team Member (2023-24):** Contributed to [brief description of your role and contributions].
+
+Feel free to browse through my repositories, and don't hesitate to reach out if you'd like to collaborate or just chat about AI and data science!
 
 <h1 align="center">Hi 👋, I'm Gaurav Kadaskar</h1>
 <h3 align="center">A passionate Backend developer</h3>
