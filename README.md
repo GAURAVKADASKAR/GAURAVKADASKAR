@@ -11,23 +11,15 @@ Welcome to my GitHub profile! I'm a final-year B.Tech student specializing in Ar
 - 📫 How to reach me: [Your Contact Information or Preferred Method]
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python
-- **Frameworks & Libraries:** Django, [any other relevant tools or libraries you use]
-- **Tools:** Git, [any other tools you frequently use]
-
-## 🌟 Projects
-- [Project 1](link-to-project): Brief description of the project.
-- [Project 2](link-to-project): Brief description of the project.
+- **Languages:**  C, C++, Python, PHP, 
+- **Frameworks & Libraries:** Django,
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Google Cloud, AWS
 
 ## 🎓 Experience
-- **GDSC Core Team Member (2023-24):** Contributed to [brief description of your role and contributions].
+- **GDSC Core Team Member (2023-24):** Actively involved in organizing various events, tech talks, and campaigns. Coordinated with speakers, managed logistics, and engaged with participants to ensure the success of these initiatives.
 
 Feel free to browse through my repositories, and don’t hesitate to reach out if you'd like to collaborate on web apps or chat about Django and Python!
-
-<h1 align="center">Hi 👋, I'm Gaurav Kadaskar</h1>
-<h3 align="center">A passionate Backend developer</h3>
-
-Final-year B.Tech student specializing in Artificial Intelligence and Data Science. I’m passionate about developing innovative solutions using Python and Django, and I’m dedicated to building applications that make a difference.<br>🚀 I was the GDSC (Google Developer Student Clubs) Foster for the year 2023-2024, where I led exciting initiatives and fostered a community of tech enthusiasts.<br>💡 I’m always excited about learning new technologies and contributing to open-source projects. Feel free to explore my repositories and connect with me!<br>🔧 Skills: Django, MySQL, Python, AI, Data Science, Website Development<br>📫 Reach me at kadskargaurav@gmail.com .<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkadaskar&label=Profile%20views&color=0e75b6&style=flat" alt="gauravkadaskar" /> </p>
 
