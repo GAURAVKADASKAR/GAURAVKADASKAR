@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kadaskar</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
+Final-year B.Tech student specializing in Artificial Intelligence and Data Science. I’m passionate about developing innovative solutions using Flutter and Firebase, and I’m dedicated to building applications that make a difference.<br>🌟 Currently, I’m working on [Pawsitive Match](https://github.com/AryanChachra/pawsitive), a Flutter app designed to help users adopt and donate pets, simplifying the process for everyone involved.<br>🚀 I was the GDSC (Google Developer Student Clubs) Lead for the year 2023-2024, where I led exciting initiatives and fostered a community of tech enthusiasts.<br>✈️ Outside of tech, I’m an avgeek who loves everything about aviation!<br>💡 I’m always excited about learning new technologies and contributing to open-source projects. Feel free to explore my repositories and connect with me!<br>🔧 Skills: Flutter, Firebase, Dart, AI, Data Science, Mobile App Development<br>📫 Reach me at aryanchachra1406@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-chachra-519927232/).<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkadaskar&label=Profile%20views&color=0e75b6&style=flat" alt="gauravkadaskar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
