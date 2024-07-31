@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a final-year B.Tech student specializing in Ar
 - 🔭 Currently working on: Developing web applications with Django and Python.
 - 🌱 Learning: Exploring advanced features of Django and Python to enhance my web development skills.
 - 👯 Looking to collaborate on: Web development projects involving Django, Python, or any AI/data science-related initiatives.
-- 🤔 Pronouns: [Your Pronouns]
-- 📫 How to reach me: [Your Contact Information or Preferred Method]
+- 🤔 Pronouns: He/Him
+- 📫 How to reach me: kadskargaurav@gmail.com
 
 ## 🛠️ Technologies & Tools
 - **Languages:**  C, C++, Python, PHP, 
