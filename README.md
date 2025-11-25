@@ -15,8 +15,9 @@ Welcome to my GitHub profile! I'm a final-year B.Tech student specializing in Ar
 - 📫 How to reach me: kadskargaurav@gmail.com
 
 ## 🛠️ Technologies & Tools
-- **Languages:**  C, C++, Python, PHP, 
-- **Frameworks & Libraries:** Django,
+- **Languages:**  C, C++, Python, PHP
+- **Frameworks & Libraries:** Django,Moqui
+- ,Nifi
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Google Cloud, AWS
 
