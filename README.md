@@ -16,8 +16,7 @@ Welcome to my GitHub profile! I'm a final-year B.Tech student specializing in Ar
 
 ## 🛠️ Technologies & Tools
 - **Languages:**  C, C++, Python, PHP
-- **Frameworks & Libraries:** Django,Moqui
-- ,Nifi
+- **Frameworks & Libraries:** Django,Moqui,Nifi
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Google Cloud, AWS
 
